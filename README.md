@@ -1,9 +1,15 @@
 # Compound Interest Calculator
 
-Compound Interest Calculator built with React
+## Demo
+https://compoundcalculator.zaker.dev/
 
-## Version
+## Test 
+1. Download or clone the repo. 
+2. npm install 
+3. npm start
+
+### Version
 1.0.0
 
-## License
-> MIT
+### License
+MIT
